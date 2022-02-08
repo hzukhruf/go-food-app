@@ -1,0 +1,15 @@
+App:
+  Port: 8081
+
+Database:
+  Host: "localhost"
+  Port: 3306
+  Username: "root"
+  Password: "newroot"
+  DBName: "food-app"
+
+Files:
+  Path: "./files"
+
+Jwt:
+  Secret: "q1w2e3r4t5y6"
